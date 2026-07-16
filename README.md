@@ -26,29 +26,16 @@
 
 ## 🧠 About Me
 
-```python
-class LaibaAkram:
-    def __init__(self):
-        self.name = "Laiba Akram"
-        self.role = "AI Engineer | Software Engineer"
-        self.focus = [
-            "Artificial Intelligence 🤖",
-            "LLM Applications 🧩",
-            "RAG Systems 📚",
-            "AI Automation ⚙️",
-            "FastAPI Backend Development 🚀",
-            "Computer Vision 👁️",
-            "Data Analytics 📊"
-        ]
-        self.mission = "Build AI systems that solve real problems"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build intelligent AI! 👋")
-```
-
 I'm passionate about building **production-ready AI applications** using Large Language Models, Retrieval-Augmented Generation (RAG), Computer Vision, and FastAPI.
 
 I enjoy solving real-world problems through **AI-powered automation** and continuously learning the latest AI technologies. 🚀
+
+<div align="center">
+
+🤖 **Artificial Intelligence** &nbsp;•&nbsp; 🧩 **LLM Applications** &nbsp;•&nbsp; 📚 **RAG Systems**
+⚙️ **AI Automation** &nbsp;•&nbsp; 🚀 **FastAPI** &nbsp;•&nbsp; 👁️ **Computer Vision** &nbsp;•&nbsp; 📊 **Data Analytics**
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
